@@ -1,0 +1,10 @@
+.store {
+  text-align: center;
+  color: blue;
+}
+
+
+store{
+  display: flex;
+flex-direction: column;
+}
